@@ -7,7 +7,7 @@ export default function WhyUsPage() {
     {
       title: 'Instant Live Website Preview',
       description:
-        'Unlike other AI tools that generate code or mockups, we give you a fully functional website that's live instantly. No waiting, no setup, just results.',
+        "Unlike other AI tools that generate code or mockups, we give you a fully functional website that's live instantly. No waiting, no setup, just results.",
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -70,7 +70,7 @@ export default function WhyUsPage() {
     {
       title: '7-Day Design Request Guarantee',
       description:
-        'We tweak your site until you're satisfied. Unlike agencies that charge for every change, we include unlimited design tweaks for 7 days with every site.',
+        "We tweak your site until you're satisfied. Unlike agencies that charge for every change, we include unlimited design tweaks for 7 days with every site.",
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"

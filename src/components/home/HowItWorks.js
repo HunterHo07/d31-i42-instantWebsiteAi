@@ -42,7 +42,7 @@ const HowItWorks = () => {
       title: 'Enter Your Business Name',
       description:
         'Start by entering your business name and uploading your logo. This takes just seconds and helps us personalize your website.',
-      image: '/images/step1.png',
+      image: '/images/step1.jpg',
       placeholder: 'bg-gradient-to-br from-primary/30 to-secondary/30',
     },
     {
@@ -50,7 +50,7 @@ const HowItWorks = () => {
       title: 'Choose a Template',
       description:
         'Browse our collection of professionally designed templates and select the one that best fits your business needs.',
-      image: '/images/step2.png',
+      image: '/images/step2.jpg',
       placeholder: 'bg-gradient-to-br from-secondary/30 to-accent/30',
     },
     {
@@ -58,7 +58,7 @@ const HowItWorks = () => {
       title: 'Preview Your Website',
       description:
         'Instantly see your website with your business name and logo applied. Make any quick adjustments you want.',
-      image: '/images/step3.png',
+      image: '/images/step3.jpg',
       placeholder: 'bg-gradient-to-br from-accent/30 to-primary/30',
     },
   ];

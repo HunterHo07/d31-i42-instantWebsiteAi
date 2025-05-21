@@ -15,28 +15,28 @@ const Testimonials = () => {
         "I was up against a deadline and needed a website fast. instantWebsiteAi delivered a professional site in literally minutes. I couldn't believe how good it looked with just my logo and business name.",
       author: 'Sarah Johnson',
       role: 'Freelance Designer',
-      avatar: 'https://randomuser.me/api/portraits/women/1.jpg',
+      avatar: '/images/testimonials/woman1.jpg',
     },
     {
       quote:
         "As a restaurant owner, I don't have time to learn website builders. This was exactly what I needed - I entered my restaurant name, uploaded our logo, and boom - a beautiful website that looks like we paid thousands for it.",
       author: 'Michael Chen',
       role: 'Restaurant Owner',
-      avatar: 'https://randomuser.me/api/portraits/men/2.jpg',
+      avatar: '/images/testimonials/man1.jpg',
     },
     {
       quote:
         "The 7-day design guarantee is what sold me. They made tweaks until everything was perfect, and now I have a site that perfectly represents my consulting business. Worth every penny.",
       author: 'Alicia Rodriguez',
       role: 'Business Consultant',
-      avatar: 'https://randomuser.me/api/portraits/women/3.jpg',
+      avatar: '/images/testimonials/woman2.jpg',
     },
     {
       quote:
         "I've tried Wix, Squarespace, and even hired a freelancer before. Nothing was as fast or as easy as instantWebsiteAi. I had my law practice online in under an hour.",
       author: 'David Thompson',
       role: 'Attorney',
-      avatar: 'https://randomuser.me/api/portraits/men/4.jpg',
+      avatar: '/images/testimonials/man2.jpg',
     },
   ];
 
